@@ -9,6 +9,7 @@ namespace OOPLab7._1
         public string Provider;
         public int Number_of_versions;
         public int Price;
+        
         public double Year;
 
         public System() { }
