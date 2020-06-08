@@ -16,6 +16,7 @@ namespace OOPLab7._1
         public System(string Name, string Provider, int Number_of_versions, int Price, double Year)
         {
             this.Name = Name;
+            
             this.Provider = Provider;
             this.Number_of_versions = Number_of_versions;
             this.Price = Price;
